@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifItem GifGrid debe retornar title y url 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dary"
+      src="https://www.primevideo.com/"
+    />
+    <p>
+      Dary
+    </p>
+  </div>
+</div>
+`;
